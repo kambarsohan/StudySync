@@ -1,0 +1,7 @@
+project_id = "studysync"
+
+[functions.match-students]
+verify_jwt = true
+
+[functions.delete-account]
+verify_jwt = true
